@@ -5,3 +5,4 @@ package-lock.json
 service/package-lock.json
 .gitlab-ci.yml
 dropall.sql
+nextjs-blog/
