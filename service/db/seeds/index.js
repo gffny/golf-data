@@ -41,4 +41,36 @@ exports.seed = async knex => {
   await knex(Shot.tableName).insert(sampleShots)
 }
 
-const blah = []
+// const shotArray = require('./sample-facts-shots.json')
+
+// /**
+//  * 1-18 - RBrid
+//  * 19-36 - Kiva white
+//  * 37-54 - Kiva blue
+//  */
+// let holeNumber = 0
+// const roundMap = {}
+// shotArray.forEach(shot => {
+//   if (!Array.isArray(roundMap[shot.round_id])) {
+//     roundMap[shot.round_id] = []
+//   }
+//   if (shot.source_shot_location_type_id === 10) {
+//     holeNumber++
+//   }
+//   if (shot.round_shot === 1) {
+//     holeNumber = 1
+//   }
+//   const newShot = {
+//     ...shot,
+//     hole_id: (shot.course_id - 1) * 18 + holeNumber,
+//   }
+//   roundMap[shot.round_id].push(newShot)
+//   console.log(newShot)
+// })
+
+// const fs = require('fs')
+// fs.writeFileSync(
+//   './sample-facts-new-shots.json',
+//   JSON.stringify(roundMap),
+//   'utf8',
+// )

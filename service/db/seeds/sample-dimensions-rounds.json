@@ -38,13 +38,5 @@
     "course_id": 3,
     "golfer_id": 1,
     "round_type": 18
-  },
-  {
-    "db_id": 6,
-    "short_name": "2020-12-10",
-    "long_name": "2020/12/10 Kiva Dunes (Blue)",
-    "course_id": 3,
-    "golfer_id": 1,
-    "round_type": 18
   }
 ]
