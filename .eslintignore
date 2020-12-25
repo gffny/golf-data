@@ -1,0 +1,10 @@
+**/node_modules
+**/.idea/
+**/.log
+**/npm-debug.log
+**.rdb
+**/.env
+**/.DS_Store
+**/coverage
+**/logs
+**/db/migrations

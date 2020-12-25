@@ -1,0 +1,11 @@
+{
+  "packages": ["service", "utils/*"],
+  "version": "0.0.1",
+  "npmClient": "npm",
+  "command": {
+    "run": {
+      "npmClient": "npm"
+    },
+    "bootstrap": "npm i"
+  }
+}

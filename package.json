@@ -1,0 +1,17 @@
+{
+  "name": "golf-data",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "githooks": "cp -fv githooks/* .git/hooks/",
+    "format": "find . -path '*node_modules' -prune -o -name '*.js' -print | xargs prettier --write",
+    "test": "echo 'Dummy test echo for travis.'"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "husky": "^3.1.0",
+    "lerna": "^3.18.2",
+    "lint-staged": "^9.4.3",
+    "prettier": "^1.19.1"
+  }
+}
