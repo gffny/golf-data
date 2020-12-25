@@ -1,0 +1,13 @@
+[
+  { "short_name": "apron", "long_name": "Apron" },
+  { "short_name": "bunker", "long_name": "Bunker" },
+  { "short_name": "drop", "long_name": "Drop" },
+  { "short_name": "fw", "long_name": "FW" },
+  { "short_name": "green", "long_name": "Green" },
+  { "short_name": "inside 3ft", "long_name": "Inside 3ft" },
+  { "short_name": "inside 10ft", "long_name": "Inside 10ft" },
+  { "short_name": "retee", "long_name": "ReTee" },
+  { "short_name": "rough", "long_name": "Rough" },
+  { "short_name": "tee", "long_name": "Tee" },
+  { "short_name": "trees", "long_name": "Trees" }
+]

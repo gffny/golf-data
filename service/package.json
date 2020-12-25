@@ -1,0 +1,42 @@
+{
+  "name": "@gffny/golf-data-service",
+  "version": "0.0.1",
+  "description": "Example Node + Express service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect ./bin/www",
+    "lint": "eslint . --ignore-path ../.eslintignore",
+    "lint:fix": "npm run lint -- --fix",
+    "test:unit": "jest --config=./__tests__/jest.config.unit.js",
+    "test:unit:coverage": "npm run test:unit -- --coverage",
+    "test:integration": "jest --config=./__tests__/jest.config.integration.js --forceExit --runInBand",
+    "test:integration:coverage": "npm run test:integration -- --coverage",
+    "test:ci": "npm run test:unit",
+    "start-docker": "NPMJS_TOKEN=$your-npm-token docker-compose -f docker/docker-compose.yml up -d",
+    "publish-api-docs": "echo 'TODO'"
+  },
+  "author": "John D. Gaffney",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "hot-shots": "^8.2.0",
+    "knex": "^0.21.1",
+    "mysql2": "^2.1.0",
+    "node-fetch": "^2.6.1",
+    "objection": "^2.1.3",
+    "@gffny/logger": "^0.0.1"
+  },
+  "devDependencies": {
+    "husky": "^4.2.5",
+    "jest": "^26.0.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.3",
+    "prettier": "^2.1.2",
+    "supertest": "^4.0.2",
+    "swagger-jsdoc": "^4.0.0",
+    "swagger-ui-express": "^4.1.4"
+  }
+}

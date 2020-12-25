@@ -1,0 +1,50 @@
+[
+  {
+    "db_id": 1,
+    "short_name": "2020-12-23",
+    "long_name": "2020/12/23 Ross Bridge (Orange)",
+    "course_id": 1,
+    "golfer_id": 1,
+    "round_type": 18
+  },
+  {
+    "db_id": 2,
+    "short_name": "2020-12-20",
+    "long_name": "2020/12/20 Kiva Dunes (White)",
+    "course_id": 2,
+    "golfer_id": 1,
+    "round_type": 18
+  },
+  {
+    "db_id": 3,
+    "short_name": "2020-12-18",
+    "long_name": "2020/12/18 Kiva Dunes (Blue)",
+    "course_id": 3,
+    "golfer_id": 1,
+    "round_type": 9
+  },
+  {
+    "db_id": 4,
+    "short_name": "2020-12-17",
+    "long_name": "2020/12/17 Kiva Dunes (Blue)",
+    "course_id": 3,
+    "golfer_id": 1,
+    "round_type": 9
+  },
+  {
+    "db_id": 5,
+    "short_name": "2020-12-12",
+    "long_name": "2020/12/12 Kiva Dunes (Blue)",
+    "course_id": 3,
+    "golfer_id": 1,
+    "round_type": 18
+  },
+  {
+    "db_id": 6,
+    "short_name": "2020-12-10",
+    "long_name": "2020/12/10 Kiva Dunes (Blue)",
+    "course_id": 3,
+    "golfer_id": 1,
+    "round_type": 18
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "db_id": 1,
+    "course_id": 1,
+    "hole_number": 1,
+    "hole_par": 5,
+    "hole_index": 3,
+    "short_name": "hole1",
+    "long_name": "Hole 1"
+  },
+  {
+    "db_id": 2,
+    "course_id": 1,
+    "hole_number": 2,
+    "hole_par": 4,
+    "hole_index": 13,
+    "short_name": "hole2",
+    "long_name": "Hole 2"
+  },
+  {
+    "db_id": 3,
+    "course_id": 1,
+    "hole_number": 3,
+    "hole_par": 4,
+    "hole_index": 7,
+    "short_name": "hole3",
+    "long_name": "Hole 3"
+  },
+  {
+    "db_id": 4,
+    "course_id": 1,
+    "hole_number": 4,
+    "hole_par": 3,
+    "hole_index": 15,
+    "short_name": "hole4",
+    "long_name": "Hole 4"
+  },
+  {
+    "db_id": 5,
+    "course_id": 1,
+    "hole_number": 5,
+    "hole_par": 4,
+    "hole_index": 5,
+    "short_name": "hole5",
+    "long_name": "Hole 5"
+  },
+  {
+    "db_id": 6,
+    "course_id": 1,
+    "hole_number": 6,
+    "hole_par": 3,
+    "hole_index": 17,
+    "short_name": "hole6",
+    "long_name": "Hole 6"
+  },
+  {
+    "db_id": 7,
+    "course_id": 1,
+    "hole_number": 7,
+    "hole_par": 5,
+    "hole_index": 1,
+    "short_name": "hole7",
+    "long_name": "Hole 7"
+  },
+  {
+    "db_id": 8,
+    "course_id": 1,
+    "hole_number": 8,
+    "hole_par": 4,
+    "hole_index": 11,
+    "short_name": "hole8",
+    "long_name": "Hole 8"
+  },
+  {
+    "db_id": 9,
+    "course_id": 1,
+    "hole_number": 9,
+    "hole_par": 4,
+    "hole_index": 9,
+    "short_name": "hole9",
+    "long_name": "Hole 9"
+  },
+  {
+    "db_id": 10,
+    "course_id": 1,
+    "hole_number": 10,
+    "hole_par": 4,
+    "hole_index": 10,
+    "short_name": "hole10",
+    "long_name": "Hole 10"
+  },
+  {
+    "db_id": 11,
+    "course_id": 1,
+    "hole_number": 11,
+    "hole_par": 3,
+    "hole_index": 18,
+    "short_name": "hole11",
+    "long_name": "Hole 11"
+  },
+  {
+    "db_id": 12,
+    "course_id": 1,
+    "hole_number": 12,
+    "hole_par": 4,
+    "hole_index": 12,
+    "short_name": "hole12",
+    "long_name": "Hole 12"
+  },
+  {
+    "db_id": 13,
+    "course_id": 1,
+    "hole_number": 13,
+    "hole_par": 5,
+    "hole_index": 2,
+    "short_name": "hole13",
+    "long_name": "Hole 13"
+  },
+  {
+    "db_id": 14,
+    "course_id": 1,
+    "hole_number": 14,
+    "hole_par": 3,
+    "hole_index": 16,
+    "short_name": "hole14",
+    "long_name": "Hole 14"
+  },
+  {
+    "db_id": 15,
+    "course_id": 1,
+    "hole_number": 15,
+    "hole_par": 4,
+    "hole_index": 14,
+    "short_name": "hole15",
+    "long_name": "Hole 15"
+  },
+  {
+    "db_id": 16,
+    "course_id": 1,
+    "hole_number": 16,
+    "hole_par": 5,
+    "hole_index": 4,
+    "short_name": "hole16",
+    "long_name": "Hole 16"
+  },
+  {
+    "db_id": 17,
+    "course_id": 1,
+    "hole_number": 17,
+    "hole_par": 4,
+    "hole_index": 6,
+    "short_name": "hole17",
+    "long_name": "Hole 17"
+  },
+  {
+    "db_id": 18,
+    "course_id": 1,
+    "hole_number": 18,
+    "hole_par": 4,
+    "hole_index": 8,
+    "short_name": "hole18",
+    "long_name": "Hole 18"
+  }
+]

@@ -1,0 +1,40 @@
+version: '3'
+services:
+  golf-data-service:
+    build: 
+      context: ../
+      dockerfile: docker/Dockerfile
+      args:
+        NPMJS_TOKEN: ${NPMJS_TOKEN}
+    ports:
+      - '3000:3000'
+    networks:
+      - golf-data-service
+    depends_on:
+      - golf-data-mysql
+    links:
+      - golf-data-mysql
+
+  golf-data-mysql:
+    image: mysql
+    restart: always
+    hostname: golf-data-mysql
+    environment:
+      MYSQL_ROOT_HOST: '%'
+      MYSQL_DATABASE: 'golf-data'
+      MYSQL_USER: 'golf-data-service'
+      MYSQL_PASSWORD: 'letmein123'
+      MYSQL_ROOT_PASSWORD: 'letmein123'
+    ports:
+      - '3306:3306'
+    expose:
+      - '3306'
+    networks:
+     - golf-data-service
+    volumes:
+      - golf-data-mysql-data:/var/lib/mysql
+
+volumes:
+    golf-data-mysql-data:
+networks:
+  golf-data-service:

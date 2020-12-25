@@ -1,0 +1,16 @@
+[
+  { "golfer_id": 1, "short_name": "3hy", "long_name": "3hy" },
+  { "golfer_id": 1, "short_name": "3ir", "long_name": "3ir" },
+  { "golfer_id": 1, "short_name": "3wd", "long_name": "3wd" },
+  { "golfer_id": 1, "short_name": "50d", "long_name": "50d" },
+  { "golfer_id": 1, "short_name": "56d", "long_name": "56d" },
+  { "golfer_id": 1, "short_name": "5ir", "long_name": "5ir" },
+  { "golfer_id": 1, "short_name": "60d", "long_name": "60d" },
+  { "golfer_id": 1, "short_name": "6ir", "long_name": "6ir" },
+  { "golfer_id": 1, "short_name": "7ir", "long_name": "7ir" },
+  { "golfer_id": 1, "short_name": "8ir", "long_name": "8ir" },
+  { "golfer_id": 1, "short_name": "9ir", "long_name": "9ir" },
+  { "golfer_id": 1, "short_name": "drv", "long_name": "Drv" },
+  { "golfer_id": 1, "short_name": "putter", "long_name": "Putter" },
+  { "golfer_id": 1, "short_name": "pw", "long_name": "Pw" }
+]

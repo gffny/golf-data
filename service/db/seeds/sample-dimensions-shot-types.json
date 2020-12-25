@@ -1,0 +1,9 @@
+[
+  { "short_name": "1/2", "long_name": "1/2" },
+  { "short_name": "3/4", "long_name": "3/4" },
+  { "short_name": "approach", "long_name": "approach" },
+  { "short_name": "bunker", "long_name": "bunker" },
+  { "short_name": "chip", "long_name": "chip" },
+  { "short_name": "pitch", "long_name": "pitch" },
+  { "short_name": "punch", "long_name": "punch" }
+]

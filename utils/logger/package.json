@@ -1,0 +1,14 @@
+{
+  "name": "@gffny/logger",
+  "version": "0.0.1",
+  "description": "Logging for @gffny",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "John D. Gaffney",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "winston": "^3.3.3"
+  }
+}

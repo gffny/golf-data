@@ -1,0 +1,17 @@
+[
+  {
+    "db_id": 1,
+    "short_name": "rs-br-org",
+    "long_name": "Ross Bridge (Orange)"
+  },
+  {
+    "db_id": 2,
+    "short_name": "kv-dns-wht",
+    "long_name": "Kiva Dunes (White)"
+  },
+  {
+    "db_id": 3,
+    "short_name": "kv-dns-bl",
+    "long_name": "Kiva Dunes (Blue)"
+  }
+]
